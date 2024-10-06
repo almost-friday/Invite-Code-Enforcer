@@ -1,1 +1,1 @@
-This tool uses RegEx to identify strings of 16 numbers without detecting those found in mentions
+This tool uses RegEx to identify game server invite codes in the format of 16 number strings, without detecting the 16 digid Discord IDs present in @ mentions
